@@ -1,4 +1,17 @@
+title = "My Blog"
 baseURL = "https://aaltomcc.github.io/cs-ej4101-fall-2019-081-advanced/"
 languageCode = "en-us"
-title = "My Blog"
-theme = "twentyfourteen"
+theme = "ananke"
+
+SectionPagesMenu = "main"
+Paginate = 6
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "My blog for course EJ4101."
+  recent_posts_number = 2
