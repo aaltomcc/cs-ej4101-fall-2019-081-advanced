@@ -5,22 +5,32 @@
   <url>
     <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-081-advanced/posts/</loc>
     <lastmod>2019-12-05T19:56:15+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-081-advanced/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-081-advanced/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-081-advanced/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-081-advanced/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
