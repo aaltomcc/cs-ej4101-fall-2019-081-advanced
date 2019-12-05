@@ -1,5 +1,6 @@
 ---
 title: "About"
+featured_image: '/images/scuba-diver.jpeg'
 description: "About me fits here better than in the landing page, but course requirements."
 ---
 
