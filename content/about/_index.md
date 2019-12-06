@@ -10,4 +10,4 @@ My name is Alex Savia and I am currently studying towards my Bachelor of science
 
 Computers have always been an interest of mine and this was one of the major reasons why I decided to start studying computer science, the other being a good employment situation in the field of computer science. And considering the future, the employment situation will not worsen.
 
-{{< figure src="../images/scuba-diver.jpeg" title="A picture of a random diver because my hobby is diving" >}}
+{{< figure src="/cs-ej4101-fall-2019-081-advanced/images/scuba-diver.jpeg" title="A picture of a random diver because my hobby is diving" >}}
